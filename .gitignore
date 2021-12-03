@@ -2,3 +2,6 @@ trash
 saved
 tokenizer
 model
+bert_base_uncased
+__pycache__
+.vscode
