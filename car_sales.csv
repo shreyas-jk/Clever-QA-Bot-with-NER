@@ -1,0 +1,158 @@
+Manufacturer,Model,Sales,Price
+Acura,Integra,16.919,21.5
+Acura,TL,39.384,28.4
+Acura,CL,14.114,
+Acura,RL,8.588,42
+Audi,A4,20.397,23.99
+Audi,A6,18.78,33.95
+Audi,A8,1.38,62
+BMW,323i,19.747,26.99
+BMW,328i,9.231,33.4
+BMW,528i,17.527,38.9
+Buick,Century,91.561,21.975
+Buick,Regal,39.35,25.3
+Buick,Park Avenue,27.851,31.965
+Buick,LeSabre,83.257,27.885
+Cadillac,DeVille,63.729,39.895
+Cadillac,Seville,15.943,44.475
+Cadillac,Eldorado,6.536,39.665
+Cadillac,Catera,11.185,31.01
+Cadillac,Escalade,14.785,46.225
+Chevrolet,Cavalier,145.519,13.26
+Chevrolet,Malibu,135.126,16.535
+Chevrolet,Lumina,24.629,18.89
+Chevrolet,Monte Carlo,42.593,19.39
+Chevrolet,Camaro,26.402,24.34
+Chevrolet,Corvette,17.947,45.705
+Chevrolet,Prizm,32.299,13.96
+Chevrolet,Metro,21.855,9.235
+Chevrolet,Impala,107.995,18.89
+Chrysler,Sebring Coupe,7.854,19.84
+Chrysler,Sebring Conv.,32.775,24.495
+Chrysler,Concorde,31.148,22.245
+Chrysler,Cirrus,32.306,16.48
+Chrysler,LHS,13.462,28.34
+Chrysler,Town & Country,53.48,
+Chrysler,300M,30.696,29.185
+Dodge,Neon,76.034,12.64
+Dodge,Avenger,4.734,19.045
+Dodge,Stratus,71.186,20.23
+Dodge,Intrepid,88.028,22.505
+Dodge,Viper,0.916,69.725
+Dodge,Ram Pickup,227.061,19.46
+Dodge,Ram Wagon,16.767,21.315
+Dodge,Ram Van,31.038,18.575
+Dodge,Dakota,111.313,16.98
+Dodge,Durango,101.323,26.31
+Dodge,Caravan,181.749,19.565
+Ford,Escort,70.227,12.07
+Ford,Mustang,113.369,21.56
+Ford,Contour,35.068,17.035
+Ford,Taurus,245.815,17.885
+Ford,Focus,175.67,12.315
+Ford,Crown Victoria,63.403,22.195
+Ford,Explorer,276.747,31.93
+Ford,Windstar,155.787,21.41
+Ford,Expedition,125.338,36.135
+Ford,Ranger,220.65,12.05
+Ford,F-Series,540.561,26.935
+Honda,Civic,199.685,12.885
+Honda,Accord,230.902,15.35
+Honda,CR-V,73.203,20.55
+Honda,Passport,12.855,26.6
+Honda,Odyssey,76.029,26
+Hyundai,Accent,41.184,9.699
+Hyundai,Elantra,66.692,11.799
+Hyundai,Sonata,29.45,14.999
+Infiniti,I30,23.713,29.465
+Jaguar,S-Type,15.467,42.8
+Jeep,Wrangler,55.557,14.46
+Jeep,Cherokee,80.556,21.62
+Jeep,Grand Cherokee,157.04,26.895
+Lexus,ES300,24.072,31.505
+Lexus,GS300,12.698,37.805
+Lexus,GS400,3.334,46.305
+Lexus,LS400,6.375,54.005
+Lexus,LX470,9.126,60.105
+Lexus,RX300,51.238,34.605
+Lincoln,Continental,13.798,39.08
+Lincoln,Town car,48.911,43.33
+Lincoln,Navigator,22.925,42.66
+Mitsubishi,Mirage,26.232,13.987
+Mitsubishi,Eclipse,42.541,19.047
+Mitsubishi,Galant,55.616,17.357
+Mitsubishi,Diamante,5.711,24.997
+Mitsubishi,3000GT,0.11,25.45
+Mitsubishi,Montero,11.337,31.807
+Mitsubishi,Montero Sport,39.348,22.527
+Mercury,Mystique,14.351,16.24
+Mercury,Cougar,26.529,16.54
+Mercury,Sable,67.956,19.035
+Mercury,Grand Marquis,81.174,22.605
+Mercury,Mountaineer,27.609,27.56
+Mercury,Villager,20.38,22.51
+Mercedes-B,C-Class,18.392,31.75
+Mercedes-B,E-Class,27.602,49.9
+Mercedes-B,S-Class,16.774,69.7
+Mercedes-B,SL-Class,3.311,82.6
+Mercedes-B,SLK,7.998,38.9
+Mercedes-B,SLK230,1.526,41
+Mercedes-B,CLK Coupe,11.592,41.6
+Mercedes-B,CL500,0.954,85.5
+Mercedes-B,M-Class,28.976,35.3
+Nissan,Sentra,42.643,13.499
+Nissan,Altima,88.094,20.39
+Nissan,Maxima,79.853,26.249
+Nissan,Quest,27.308,26.399
+Nissan,Pathfinder,42.574,29.299
+Nissan,Xterra,54.158,22.799
+Nissan,Frontier,65.005,17.89
+Oldsmobile,Cutlass,1.112,18.145
+Oldsmobile,Intrigue,38.554,24.15
+Oldsmobile,Alero,80.255,18.27
+Oldsmobile,Aurora,14.69,36.229
+Oldsmobile,Bravada,20.017,31.598
+Oldsmobile,Silhouette,24.361,25.345
+Plymouth,Neon,32.734,12.64
+Plymouth,Breeze,5.24,16.08
+Plymouth,Voyager,24.155,18.85
+Plymouth,Prowler,1.872,43
+Pontiac,Sunfire,51.645,21.61
+Pontiac,Grand Am,131.097,19.72
+Pontiac,Firebird,19.911,25.31
+Pontiac,Grand Prix,92.364,21.665
+Pontiac,Bonneville,35.945,23.755
+Pontiac,Montana,39.572,25.635
+Porsche,Boxter,8.982,41.43
+Porsche,Carrera Coupe,1.28,71.02
+Porsche,Carrera Cabrio,1.866,74.97
+Saab,5-Sep,9.191,33.12
+Saab,3-Sep,12.115,26.1
+Saturn,SL,80.62,10.685
+Saturn,SC,24.546,12.535
+Saturn,SW,5.223,14.29
+Saturn,LW,8.472,18.835
+Saturn,LS,49.989,15.01
+Subaru,Outback,47.107,22.695
+Subaru,Forester,33.028,20.095
+Toyota,Corolla,142.535,13.108
+Toyota,Camry,247.994,17.518
+Toyota,Avalon,63.849,25.545
+Toyota,Celica,33.269,16.875
+Toyota,Tacoma,84.087,11.528
+Toyota,Sienna,65.119,22.368
+Toyota,RAV4,25.106,16.888
+Toyota,4Runner,68.411,22.288
+Toyota,Land Cruiser,9.835,51.728
+Volkswagen,Golf,9.761,14.9
+Volkswagen,Jetta,83.721,16.7
+Volkswagen,Passat,51.102,21.2
+Volkswagen,Cabrio,9.569,19.99
+Volkswagen,GTI,5.596,17.5
+Volkswagen,Beetle,49.463,15.9
+Volvo,S40,16.957,23.4
+Volvo,V40,3.545,24.4
+Volvo,S70,15.245,27.5
+Volvo,V70,17.531,28.8
+Volvo,C70,3.493,45.5
+Volvo,S80,18.969,36
